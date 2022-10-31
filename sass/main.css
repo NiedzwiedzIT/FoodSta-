@@ -1,0 +1,22 @@
+body {
+  font-family: 'Roboto', 'sans-serif';
+  letter-spacing: 0.03em;
+  background-color: #fefefe;
+  color: #2c2c2c;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+p,
+figure {
+  margin: 0;
+}
+
+ul {
+  padding-left: 0;
+}
